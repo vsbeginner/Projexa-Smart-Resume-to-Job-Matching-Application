@@ -1,0 +1,3 @@
+# Testing Module
+
+This folder contains unit tests and integration tests for the application.
